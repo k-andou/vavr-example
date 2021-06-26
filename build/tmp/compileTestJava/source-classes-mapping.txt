@@ -1,0 +1,55 @@
+example/collections/map/HashMapTest.java
+ example.collections.map.HashMapTest
+example/collections/seq/ListTest.java
+ example.collections.seq.ListTest
+example/intro/FunctionalInterfacesTest.java
+ example.intro.FunctionalInterfacesTest
+example/collections/interoperability/ToVavrTest.java
+ example.collections.interoperability.ToVavrTest
+example/validation/ValidationApiTest.java
+ example.validation.ValidationApiTest
+ example.validation.ValidationApiTest$User
+ example.validation.ValidationApiTest$UserValidator
+example/collections/seq/StreamTest.java
+ example.collections.seq.StreamTest
+example/collections/seq/VectorTest.java
+ example.collections.seq.VectorTest
+example/intro/PatternMatchingTest.java
+ example.intro.PatternMatchingTest
+example/collections/seq/ArrayTest.java
+ example.collections.seq.ArrayTest
+example/collections/interoperability/ToJavaTest.java
+ example.collections.interoperability.ToJavaTest
+example/intro/TryTest.java
+ example.intro.TryTest
+example/collections/map/TreeMapTest.java
+ example.collections.map.TreeMapTest
+example/intro/TupleTest.java
+ example.intro.TupleTest
+example/collections/set/HashSetTest.java
+ example.collections.set.HashSetTest
+example/collections/seq/CharSeqTest.java
+ example.collections.seq.CharSeqTest
+example/collections/set/TreeSetTest.java
+ example.collections.set.TreeSetTest
+example/intro/CollectionsTest.java
+ example.intro.CollectionsTest
+example/collections/seq/QueueTest.java
+ example.collections.seq.QueueTest
+example/collections/set/BiSetTest.java
+ example.collections.set.BiSetTest
+example/either/EitherTest.java
+ example.either.EitherTest
+example/intro/ValidationTest.java
+ example.intro.ValidationTest
+ example.intro.ValidationTest$Person
+ example.intro.ValidationTest$PersonValidator
+example/exception/CheckedFunctionTest.java
+ example.exception.CheckedFunctionTest
+example/vavrtry/VaryTryTest.java
+ example.vavrtry.VaryTryTest
+ example.vavrtry.VaryTryTest$ClientException
+ example.vavrtry.VaryTryTest$HttpClient
+ example.vavrtry.VaryTryTest$Response
+example/intro/OptionTest.java
+ example.intro.OptionTest

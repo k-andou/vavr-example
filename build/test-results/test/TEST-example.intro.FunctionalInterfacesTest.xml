@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.intro.FunctionalInterfacesTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-06-26T08:05:12" hostname="DESKTOP-PE4JGP3" time="0.015">
+  <properties/>
+  <testcase name="givenVavrFunction_whenWorks_thenCorrect()" classname="example.intro.FunctionalInterfacesTest" time="0.003"/>
+  <testcase name="givenVavrBiFunction_whenWorks_thenCorrect()" classname="example.intro.FunctionalInterfacesTest" time="0.003"/>
+  <testcase name="whenCreatesFunction_thenCorrect0()" classname="example.intro.FunctionalInterfacesTest" time="0.004"/>
+  <testcase name="whenCreatesFunctionFromMethodRef_thenCorrect()" classname="example.intro.FunctionalInterfacesTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

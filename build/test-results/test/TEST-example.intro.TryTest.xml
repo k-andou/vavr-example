@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.intro.TryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-26T08:05:12" hostname="DESKTOP-PE4JGP3" time="0.009">
+  <properties/>
+  <testcase name="givenBadCode_whenTryHandles_thenCorrect2()" classname="example.intro.TryTest" time="0.003"/>
+  <testcase name="givenBadCode_whenTryHandles_thenCorrect3()" classname="example.intro.TryTest" time="0.002"/>
+  <testcase name="givenBadCode_whenTryHandles_thenCorrect()" classname="example.intro.TryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

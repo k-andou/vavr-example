@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.collections.set.HashSetTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-26T08:05:12" hostname="DESKTOP-PE4JGP3" time="0.004">
+  <properties/>
+  <testcase name="range_of()" classname="example.collections.set.HashSetTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

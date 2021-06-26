@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.collections.interoperability.ToJavaTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-26T08:05:12" hostname="DESKTOP-PE4JGP3" time="0.067">
+  <properties/>
+  <testcase name="toViews()" classname="example.collections.interoperability.ToJavaTest" time="0.055"/>
+  <testcase name="toJava()" classname="example.collections.interoperability.ToJavaTest" time="0.006"/>
+  <testcase name="givenVavrList_whenViewConverted_thenException()" classname="example.collections.interoperability.ToJavaTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
